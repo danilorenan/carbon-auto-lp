@@ -27,7 +27,7 @@ export const CARS_CONFIG: Record<string, CarConfig> = {
   },
   compass: {
     id: 'compass',
-    name: 'Jeep Compass 1.3 T270 Longitude',
+    name: 'Jeep Compass T270 Longitude',
     category: 'SUV',
     image: 'https://i.ibb.co/tpYs5RT4/jeep-compass-s-flex-2022-1619554552066-v2-1920x11832.jpg',
     specs: [
